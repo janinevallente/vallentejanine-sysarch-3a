@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I am gay.
+          Hello. I am Janine Christine M. Vallente. Nice to meet you!
         </a>
       </header>
     </div>
